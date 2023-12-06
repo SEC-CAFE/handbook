@@ -1,6 +1,13 @@
 ---
 title: 数据加密与脱敏
 weight: 3
+description: 数据加密与脱敏方法与实践
+keywords:
+ - 数据安全
+ - 数据加密
+ - 数据脱敏
+ - CASB
+ - 数据水印
 ---
 
 ## 方法

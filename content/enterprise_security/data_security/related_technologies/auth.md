@@ -1,9 +1,13 @@
 ---
 title: 认证与授权
 weight: 2
+description: 数据安全认证与授权
+keywords:
+ - 数据安全
+ - 认证与授权
 ---
 
 
-- [基于关键词、数据字典和正则表达式敏感数据识别方法](https://cn-sec.com/archives/1364844.html)
-- [好大夫数据安全分类分级实践探索](https://www.freebuf.com/articles/database/349036.html)：一种低成本、高效落地数据分级分类的思路
-- [大规模数据安全分类系统架构实践](https://mp.weixin.qq.com/s/mRmDEuDKJSJ_xrYyBMn4Dw)：美团分类分级系统建设，结合了机器学习和传统指纹技术对所有数据进行分类
+- [大数据应用安全研究报告（11家公司实践详解）](http://www.cbdio.com/BigData/2017-05/15/content_5519040.htm)
+- [采用统一的零信任数据访问方法实现数据安全现代化](http://www.anquan419.com/news/18/1562.html)
+

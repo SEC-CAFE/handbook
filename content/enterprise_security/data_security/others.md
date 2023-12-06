@@ -2,7 +2,20 @@
 title: 其他资料
 prev: /enterprise_security/data_security/related_technologies/
 weight: 4
+description: 数据安全相关书籍、分享、比赛与个人技能
+keywords:
+ - 数据安全
+ - 数据安全书籍
+ - 数据安全分享
+ - 数据安全能力
+ - 数据安全人才强基计划
+ - 数据安全工程技术人员
+ - CSDP
+ - 数据安全认证专家
+ - 数据安全大赛
+ - 数据安全书单
 ---
+
 
 ## 书籍
 - [数据安全架构设计与实战](https://weread.qq.com/web/bookDetail/5ed32a607198b78c5ed6a0b)：作者在鹅厂做过多年数据安全工作，目前在菊厂

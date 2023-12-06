@@ -1,6 +1,22 @@
 ---
 title: 安全手册 - SEC.CAFE 安全咖啡
 layout: hextra-home
+keywords:
+ - 安全手册
+ - 安全WIKI
+ - 安全知识库
+ - 安全百科
+ - 漏洞知识库
+ - 安全档案
+ - 安全文库
+ - 安全指南
+ - 数据安全
+ - 企业安全
+ - 研发安全
+ - 安全标准
+ - 安全攻防
+ - 漏洞研究
+ - awesome data security
 ---
 
 {{< hextra/hero-badge >}}

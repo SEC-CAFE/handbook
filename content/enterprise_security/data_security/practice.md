@@ -2,7 +2,18 @@
 title: 企业实践
 next: /enterprise_security/data_security/related_technologies/
 weight: 2
+description: 数据安全相关企业实践与分享
+keywords:
+ - 数据安全
+ - 数据安全实践指南
+ - 数据安全企业实践
+ - 数据安全治理
+ - 数据安全分享
+ - 数据安全平台建设
+ - 数据安全体系
 ---
+
+
 
 - [数据安全的第一道坎](https://www.sec-un.org/数据安全的第一道坎/)：平安银行分享
 - [data-security-google-cloud](https://cloud.google.com/blog/topics/developers-practitioners/data-security-google-cloud)：GCP数据安全白皮书

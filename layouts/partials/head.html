@@ -16,20 +16,18 @@
     {{ end -}}
   </title>
   <meta name="description" content="{{ partial "utils/page-description.html" . }}" />
-
+  <meta content="{{ delimit .Keywords ", " }}" name="keywords">
   {{ partial "opengraph.html" . }}
   {{ template "_internal/schema.html" . -}}
   {{ template "_internal/twitter_cards.html" . -}}
 
   {{ partialCached "head-css.html" . }}
 
-
   <!-- Google Analytics -->
   {{- if and (eq hugo.Environment "production") (or .Site.GoogleAnalytics .Site.Config.Services.GoogleAnalytics.ID) }}
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
     {{ partial "google-analytics.html" . }}
   {{- end }}
-
 
   <script>
     /* Initialize light/dark mode */

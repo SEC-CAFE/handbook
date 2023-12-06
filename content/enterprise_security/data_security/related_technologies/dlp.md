@@ -1,6 +1,13 @@
 ---
 title: 数据防泄漏
 weight: 4
+description: 数据防泄漏案例、产品与应急响应案例
+keywords:
+ - 数据安全
+ - 数据防泄漏
+ - DLP
+ - DDR
+ - 数据泄露应急响应
 ---
 
 ## 案例与介绍
