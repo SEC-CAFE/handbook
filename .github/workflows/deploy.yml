@@ -1,0 +1,59 @@
+# Sample workflow for building and deploying a Hugo site to GitHub Pages
+name: Deploy Site
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.120.4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21.4'
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+      - name: Build with Hugo
+        env:
+          # For maximum backward compatibility with Hugo modules
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+        run: |
+          hugo \
+            --minify \
+            -b 'https://sec.cafe/handbook/'
+      - name: upload code
+        uses: garygrossgarten/github-action-scp@release
+        with:
+          local: public/.
+          remote: /data/www/handbook.sec.cafe/
+          host: ${{ secrets.DEPLOY_HOST }}
+          port: ${{secrets.DEPLOY_HOST_PORT}}
+          username: ${{ secrets.DEPLOY_HOST_USER}}
+          privateKey: ${{ secrets.DEPLOY_PRIVATE_KEY}}

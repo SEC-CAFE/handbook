@@ -7,6 +7,8 @@
 *.dll
 *.so
 *.dylib
+.DS_Store
+.hugo_build.lock
 
 # Test binary, built with `go test -c`
 *.test
@@ -19,3 +21,5 @@
 
 # Go workspace file
 go.work
+resources
+

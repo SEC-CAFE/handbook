@@ -1,0 +1,161 @@
+# Configuration
+baseURL: "https://sec.cafe/handbook/"
+title: "安全手册 - SEC.CAFE 安全咖啡"
+
+enableRobotsTXT: true
+enableGitInfo: true
+# enableEmoji: false
+hasCJKLanguage: true
+
+# services:
+#   googleAnalytics:
+#     ID: G-MEASUREMENT_ID
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
+
+defaultContentLanguage: zh-cn
+languages:
+  zh-cn:
+    languageName: 简体中文
+    languageCode: zh-CN
+    weight: 1
+    title: 安全手册 - SEC.CAFE 安全咖啡
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.112.0"
+
+  imports:
+    path: github.com/imfing/hextra
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+enableInlineShortcodes: true
+
+menu:
+  main:
+    - name: 主站
+      weight: 1
+      url: "https://sec.cafe"
+    - identifier: documentation
+      name: 知识库
+      weight: 2
+    - identifier: about
+      name: 关于
+      pageRef: /about
+      weight: 3
+    - name: 打赏
+      weight: 4
+      url: "https://sec.cafe/about"
+    - name: Search
+      weight: 5
+      params:
+        type: search
+    - identifier: enterprise_security
+      name: 企业安全
+      parent: documentation
+      pageRef: /enterprise_security
+      weight: 1
+    - identifier: offensive_defensive
+      name: 安全攻防
+      parent: documentation
+      pageRef: /offensive_defensive
+      weight: 2
+    - identifier: vulnerability_research
+      name: 漏洞研究
+      parent: documentation
+      pageRef: /vulnerability_research
+      weight: 3
+
+
+  sidebar:
+    - identifier: more
+      name: More
+      params:
+        type: separator
+      weight: 1
+    - identifier: about
+      name: "关于"
+      pageRef: "/about"
+      weight: 2
+    - identifier: SEC.CAFE
+      name: "打赏"
+      url: "https://sec.cafe/about"
+      weight: 3
+
+params:
+  description: SEC.CAFE 安全咖啡是一个安全爱好者的服务平台与社区。安全手册，企业安全实践、攻防与安全研究知识库。
+
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      # width: 40
+      # height: 20
+      # link: /
+    width: wide
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displaySlogan: true
+    displayPoweredBy: false
+    width: normal
+
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  # Search
+  # flexsearch is enabled by default
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+
+  editURL:
+    enable: true
+    base: "https://github.com/SEC-CAFE/handbook/edit/main/content"
+
+  blog:
+    list:
+      displayTags: true
+
+  comments:
+    enable: true
+    type: giscus
+
+    # https://giscus.app/
+    giscus:
+      repo: SEC-CAFE/handbook
+      repoId: R_kgDOKwin0w
+      category: General
+      categoryId: DIC_kwDOKwin084CbJZu
+      # mapping: pathname
+      # strict: 0
+      # reactionsEnabled: 1
+      # emitMetadata: 0
+      # inputPosition: top
+      # lang: en

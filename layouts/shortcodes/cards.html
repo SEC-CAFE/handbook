@@ -1,0 +1,5 @@
+{{ $rows := .Get "rows" | default "3" }}
+
+<div class="grid sm:grid-cols-2 lg:hextra-cards grid-cols-1 mt-4 gap-4 w-full not-prose" style="--rows: {{ $rows }};">
+  {{- .Inner -}}
+</div>
