@@ -17,6 +17,9 @@ keywords:
  - 安全攻防
  - 漏洞研究
  - awesome data security
+ - awesome development security
+ - SDLC
+ - DevSecOps
 ---
 
 {{< hextra/hero-badge >}}
@@ -44,7 +47,7 @@ keywords:
 
 {{< cards rows="4" >}}
   {{< card link="enterprise_security/data_security" title="数据安全" image="https://source.unsplash.com/featured/800x400?1" subtitle="数据安全资料、方法论与实践经验">}}
-  {{< card link="#" title="研发安全" image="https://source.unsplash.com/featured/800x400?2" subtitle="开发中，敬请期待." >}}
+  {{< card link="enterprise_security/devsecops" title="DevSecOps" image="https://source.unsplash.com/featured/800x400?2" subtitle="DevSecOps及SDLC相关内容与实践方法" >}}
   {{< card link="/" title="零信任安全" image="https://source.unsplash.com/featured/800x400?3" subtitle="开发中，敬请期待.">}}
   {{< card link="/" title="攻防演练" image="https://source.unsplash.com/featured/800x400?4" subtitle="开发中，敬请期待.">}}
 {{< /cards >}}
