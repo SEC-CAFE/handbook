@@ -6,28 +6,35 @@ prev: /enterprise_security/devsecops/toolchains/
 keywords:
  - DevSecOps
  - SDLC
+ - 软件安全成熟度模型
+ - 软件安全度量
+ - BSIMM
+ - SAMM
+ - 漏洞管理成熟度模型
+ - 软件安全度量指标
+ - 应用安全指标
+ - 软件安全指标
 ---
 
 
-## 书籍
-- [数据安全架构设计与实战](https://weread.qq.com/web/bookDetail/5ed32a607198b78c5ed6a0b)：作者在鹅厂做过多年数据安全工作，目前在菊厂
-- [数据安全领域指南](https://weread.qq.com/web/bookDetail/917323f0813ab7713g018417)：很详细的介绍了数据安全整体体系
-- [微信读书书单：Awesome-Data-Security](https://weread.qq.com/)：作者维护的一份书单
+## 实践及介绍
+- [软件安全能力成熟度评估实践](https://mp.weixin.qq.com/s/_s5m8WxlwnoI4-Ea8SJfCA)
+- [百家讲坛 | DevSecOps度量和正确的使用方式](https://mp.weixin.qq.com/s/Kg22VXKuUSK-MmVFBId7rQ)
+- [华泰证券 应用安全度量](https://mp.weixin.qq.com/s/_noAjvheJKskzdQ0GB7cEA) 参考章节「5.2 应用安全度量」
 
-## 分享
-- [信息安全知识库vipread](https://vipread.com/library/tags/数据安全)：国内各种公开分享基本都收纳进来了
-- [sec-wiki](https://www.sec-wiki.com/news/search?wd=数据安全)：每周一推送
-- [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts#数据安全类)：数据安全类微信公众号
 
-## 个人成长
-- [数据安全人员能力思考](https://iami.xyz/DSMM-Date-Security/)
-- [CSDP数据安全认证专家](https://c-csa.cn/training/course-detail/i-1702.html)
-- [数据安全工程技术人员国家职业标准](http://www.mohrss.gov.cn/xxgk2020/fdzdgknr/jcgk/zqyj/202301/t20230117_493635.html)
-- [组织机构的数据安全人员能力要求](https://www.secrss.com/articles/8893)
-- [数据安全人才强基计划](https://www.isc.org.cn/article/12511724820754432.html)
+## 软件成熟度模型
+- [BSIMM 内置安全成熟度模型](https://www.synopsys.com/content/dam/synopsys/china/software-integrity/datasheets/bsimm-cn.pdf) 
+- [SAMM OWASP 软件保障成熟度模型](http://www.owasp.org.cn/OWASP-CHINA/owasp-project/OWASPSAMM2.0.pdf) 
+- [C2M2 网络安全能力成熟度模型](https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2)
 
-## 比赛
-- [2021红明谷杯数据安全大赛](https://www.ichunqiu.com/hmgctf)
-- [2021极客谷杯数据安全劳动和技能竞赛](https://www.aqniu.com/industry/78089.html)
-- [2022首届全国数据安全大赛](https://bm.ichunqiu.com/ds-contest)
-- [2023数字中国创新大赛网络数据安全赛道](https://www.dcic-china.com/competitions?raceId=32)
+
+## 漏洞管理成熟度
+- [基于CMM的漏洞成熟度模型](https://www.4hou.com/posts/Q62M)
+- [漏洞管理成熟度](https://mp.weixin.qq.com/s/VgqTeRjsgQYiZSwz7soH1g) 上一个的案例，参考章节「第二部分道与认知」-「漏洞管理成熟度」
+- [车联网漏洞管理成熟度模型](https://www.secrss.com/articles/54872) 参考章节「三、车联网漏洞管理成熟度模型」
+- [The Threat & Vulnerability Management Maturity Model](https://docs.media.bitpipe.com/io_12x/io_120436/item_1066724/TVM%20Maturity%20Model%20WP%202014-10.pdf) by Core Security
+- [Vulnerability Management Maturity Model](https://www.bmc.com/content/dam/bmc/collateral/bmc/vulnerability-maturity-levels-quicksheet-03222019.pdf) by BMC
+- [SANS Vulnerability Management Maturity Model](https://www.sans.org/blog/vulnerability-management-maturity-model/#addsearch=vulnerability%20management%20maturity%20model)[模型大图](https://rhisac.org/wp-content/uploads/Using-the-SANS-Vulnerability-Management-Maturity-Model-in-Your-Vulnerability-Management-Process.jpg)
+- [漏洞管理十大度量指标](https://www.secrss.com/articles/48835)
+

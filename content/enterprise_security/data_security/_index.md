@@ -10,8 +10,16 @@ keywords:
 数据安全资料、方法论与实践经验
 <!--more-->
 
->「数据安全」知识库内容来自于 https://github.com/tuhaolam/awesome-data-security-cn
+## 作者及修订记录
+{{% details title="详情" %}}
+- 知识库内容来自于 [awesome-data-security-cn](https://github.com/tuhaolam/awesome-data-security-cn)项目
+- [Fooying](https://fooying.com) 补充增加「企业实践-安全度量」内容
+{{% /details %}}
 
+> 感谢参与贡献的每一位作者！请尊重原创，引用转载请保留来源！
+
+
+## 目录
 探索以下各节以学习「数据安全」内容：
 
 
