@@ -21,12 +21,12 @@ keywords:
  - 软件安全
 ---
 
-DevSecOps及SDLC相关内容与实践方法
+DevSecOps及S-SDLC相关内容与实践方法
 <!--more-->
 
 ## 作者及修订记录
 {{% details title="详情" %}}
-- [Fooying](https://fooying.com) 编写主要内容
+- [Fooying](https://fooying.com) 收集和编写主要内容
 {{% /details %}}
 > 感谢参与贡献的每一位作者！请尊重原创，引用转载请保留来源！
 

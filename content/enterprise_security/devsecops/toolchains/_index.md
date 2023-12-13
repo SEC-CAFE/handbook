@@ -1,16 +1,23 @@
 ---
 title: 安全工具链
-weight: 4
+weight: 5
 showlist: true
 description: DevSecOps/SDLC过程中涉及的安全工具链
 keywords:
- - 数据安全
- - 数据分级分类
- - 数据加密
- - 隐私计算
- - 数据安全审计
- - 数据防泄漏
- - DLP
- - 数据脱敏
- - 认证与授权
+ - 安全工具链
+ - DevSecOps工具链
+ - 安全测试工具
+ - DAST
+ - SAST
+ - SCA
 ---
+
+## 工具链参考
+![](images/devsecops_tools.jpg "DevSecOps Toolchain")
+![](images/DevSecOps-Toolchain.jpeg "DevSecOps Toolchain Mind Map")
+![](images/60_p1.jpg "DevSecOps Toolchain SANS")
+
+> 来自 https://github.com/zemmali/DevSecOps-Toolchain
+
+## 目录
+> 部分工具链参考 https://github.com/TaptuIT/awesome-devsecops
