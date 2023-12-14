@@ -68,5 +68,6 @@ keywords:
 
 ## 国产商业软件对比
 > 引用自 https://bloodzer0.github.io/ossa/application-security/code-audit/
-![](images/代码审计商业软件对比.png "代码审计商业软件对比")
+
+![](/images/代码审计商业软件对比.png "代码审计商业软件对比")
 

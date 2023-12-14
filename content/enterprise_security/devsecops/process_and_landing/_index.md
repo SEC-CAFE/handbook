@@ -11,12 +11,12 @@ keywords:
 ---
 
 ## DevSecOps
-![](images/devsecops_tools.jpg "DevSecOps")
+![](/images/devsecops_tools.jpg "DevSecOps")
 > DevSecOps主要分为10个阶段，分别是计划（Plan）、创建（Create）、验证（Verify）、预发布（Preprod）、发布（Release）、预防（Prevent）、检测（Detect）、
 响应（Respond）、预测（Predict）、适应（Adapt），其中预防（Prevent）在之前的版本里也有叫做配置（Configure）；
 
 ## SDL
-![](images/sdl.png "SDL")
+![](/images/sdl.png "SDL")
 > SDL主要分为培训（Training）、需求（Requirements）、设计（Design）、实现/实施（Implementation）、验证（Verification）、发布（Release）和响应（Resonse）7个阶段。
 
 ## 目录
