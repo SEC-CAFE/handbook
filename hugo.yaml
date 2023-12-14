@@ -60,6 +60,11 @@ menu:
       weight: 5
       params:
         type: search
+    - name: GitHub
+      weight: 6
+      url: "https://github.com/SEC-CAFE/handbook"
+      params:
+        icon: github
     - identifier: enterprise_security
       name: 企业安全建设
       parent: documentation
@@ -70,6 +75,7 @@ menu:
       parent: documentation
       pageRef: /security_research
       weight: 2
+    
 
 
   sidebar:
