@@ -66,7 +66,7 @@ keywords:
 - [DawnScanner](https://github.com/thesp0nge/dawnscanner) Ruby脚本和web应用程序的安全扫描。支持Ruby on Rails, Sinatra和Padrino框架
 
 
-## 国产商业软件对比
+## 商业软件对比
 > 引用自 https://bloodzer0.github.io/ossa/application-security/code-audit/
 
 ![](/images/代码审计商业软件对比.png "代码审计商业软件对比")

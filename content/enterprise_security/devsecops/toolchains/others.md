@@ -24,7 +24,7 @@ keywords:
 ## 风险与应急响应管理
 - [SRCMS](https://github.com/martinzhou2015/SRCMS) 企业应急响应与缺陷管理系统
 - [洞察](https://github.com/creditease-sec/insight2) 宜信安全开源的集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台
-- [DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 一个DevSecOps, ASPM(应用程序安全状态管理)和漏洞管理工具
+- [DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 一个DevSecOps、ASPM(应用程序安全状态管理)和漏洞管理工具
 - [W5 SOAR](https://github.com/w5teams/w5) 安全编排与自动化响应平台
 - [Faraday](https://github.com/infobyte/faraday) 用于安全编排、漏洞管理和集中信息的安全套件
 - [Camunda](https://github.com/camunda/camunda-bpm-platform) 工作流和过程自动化
@@ -41,16 +41,16 @@ keywords:
 - [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html) 将机密信息安全地存储在Ansible管道中
 - [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) 在AWS中安全存储可检索的应用程序机密信息
 - [BlackBox](https://github.com/StackExchange/blackbox) 加密代码仓库中的凭证
-- [Chef Vault](https://github.com/chef/chef-vault) 安全地将秘密存储在Chef中
+- [Chef Vault](https://github.com/chef/chef-vault) 安全地将凭据存储在Chef中
 - [CredStash](https://github.com/fugue/credstash) 使用KMS和DynamoDB在AWS中安全地存储密钥
-- [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) 应用程序的秘密管理，包括秘密轮换和审计
+- [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) 应用程序的凭据管理，包括秘密轮换和审计
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) 在Docker集群中存储和管理对Secrets的访问
 - [Gopass](https://github.com/gopasspw/gopass) 依赖Git和gpg的团队的密码管理器。管理加密文件和存储库中的机密
 - [HashiCorp Vault](https://www.vaultproject.io/) 通过UI、CLI或HTTP API安全地存储密钥
 - [Keyscope](https://github.com/SpectralOps/keyscope) 一个Rust内置的开源密钥和秘密工作流工具(验证，失效等)
 - [Pinterest Knox](https://github.com/pinterest/knox) 安全存储、轮换和审计机密信息
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) Mozilla开源工具，加密存储在YAML、JSON、ENV、INI和二进制文件中的密钥
-- [Teller](https://github.com/spectralops/teller) 一个开发人员的秘密管理工具
+- [Teller](https://github.com/spectralops/teller) 一个开发人员的凭据管理工具
 
 
 ## 敏感凭据扫描
@@ -58,12 +58,12 @@ keywords:
 - [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) Azure提供的一个可以作为任务在Azure DevOps管道中运行的凭据扫描工具
 - [Detect Secrets](https://github.com/Yelp/detect-secrets) 检测和防止代码中凭据
 - [GitGuardian](https://www.gitguardian.com/) 一个基于web的解决方案，它可以扫描和监控公共和私有git存储库中的机密信息
-- [Gitleaks](https://github.com/zricethezav/gitleaks) 一个SAST工具，用于检测硬编码的秘密，如密码、api密钥和令牌等git仓库中的秘密
+- [Gitleaks](https://github.com/zricethezav/gitleaks) 一个SAST工具，用于检测硬编码的秘密，如密码、api密钥和令牌等git仓库中的凭据
 - [Nightfall](https://nightfall.ai/solutions/product/github) 一个基于web的平台，用于监控跨多个SDLC工具(包括GitHub仓库)的敏感数据泄露
 - [Repo-supervisor](https://github.com/auth0/repo-supervisor) 密钥扫描工具，可以以CLI、Docker容器或AWS Lambda运行
 - [SpectralOps](https://spectralops.io) - _Spectral_ - 自动化代码安全、机密、令牌和敏感数据扫描工具
 - [truffleHog](https://github.com/trufflesecurity/truffleHog) git仓库凭据搜索工具，可深入挖掘提交历史和分支
-- [Git Secrets](https://github.com/awslabs/git-secrets) 扫描Git仓库，寻找代码中提交的秘密或提交消息
+- [Git Secrets](https://github.com/awslabs/git-secrets) 扫描Git仓库，寻找代码中提交的凭据或提交消息
 
 ## 其他
 
