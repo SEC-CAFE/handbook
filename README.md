@@ -15,12 +15,14 @@
 ## 贡献内容
 
 ### 已有内容补充与修正
-请访问对应页面，点击右侧「在 GitHub 上编辑此页 →」直接修改内容并「Propose changes」，我们将会审核修改并合并内容。
+- 请访问对应页面，点击右侧「在 GitHub 上编辑此页 →」直接修改内容并「Propose changes」，我们将会审核修改并合并内容。
+- 或Fork本项目提交MR(参考新主题贡献)
 
 ### 新主题贡献
 1. 请采用Fork[本项目](https://github.com/SEC-CAFE/handbook)并提交MR的方式提交新主题
-3. 具体内容及格式请访问并参考[数据安全] `content/enterprise_security` 新建目录(如application_security)并于该目录下添加文件并编写内容
-2. 请同步更新或添加`content/_index.md` 对应类别下的card内容
+2. 具体内容及格式请访问并参考[数据安全] `content/enterprise_security` 新建目录(如application_security)并于该目录下添加文件并编写内容
+3. 修改目录`_index.md`文件添加修订记录
+4. 请同步更新或添加`content/_index.md` 对应类别下的card内容 
 
 ## 贡献者
 <a href="https://github.com/SEC-CAFE/handbook/graphs/contributors">
