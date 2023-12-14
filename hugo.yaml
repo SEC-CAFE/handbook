@@ -61,20 +61,15 @@ menu:
       params:
         type: search
     - identifier: enterprise_security
-      name: 企业安全
+      name: 企业安全建设
       parent: documentation
       pageRef: /enterprise_security
       weight: 1
-    - identifier: offensive_defensive
-      name: 安全攻防
+    - identifier: security_research
+      name: 安全攻防与研究
       parent: documentation
-      pageRef: /offensive_defensive
+      pageRef: /security_research
       weight: 2
-    - identifier: vulnerability_research
-      name: 漏洞研究
-      parent: documentation
-      pageRef: /vulnerability_research
-      weight: 3
 
 
   sidebar:

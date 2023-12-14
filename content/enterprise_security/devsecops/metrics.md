@@ -27,7 +27,7 @@ keywords:
 
 ## 软件成熟度模型
 - [BSIMM 内置安全成熟度模型](https://www.synopsys.com/content/dam/synopsys/china/software-integrity/datasheets/bsimm-cn.pdf) 
-- [SAMM OWASP 软件保障成熟度模型](http://www.owasp.org.cn/OWASP-CHINA/owasp-project/OWASPSAMM2.0.pdf) 
+- [SAMM OWASP软件保障成熟度模型](http://www.owasp.org.cn/OWASP-CHINA/owasp-project/OWASPSAMM2.0.pdf) 
 - [C2M2 网络安全能力成熟度模型](https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2)
 - [OWASP Devsecops Maturity Model](https://owasp.org/www-project-devsecops-maturity-model/)
 

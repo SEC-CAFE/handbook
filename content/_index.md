@@ -42,7 +42,7 @@ keywords:
 </div>
 
 <div class="mb-6">
-{{< hextra/hero-button text="企业安全" link="enterprise_security" >}}
+{{< hextra/hero-button text="企业安全建设" link="enterprise_security" >}}
 </div>
 
 {{< cards rows="4" >}}
@@ -55,26 +55,12 @@ keywords:
 <div class="mt-6">&nbsp;</div>
 
 <div class="mb-6">
-{{< hextra/hero-button text="安全攻防" link="offensive_defensive" >}}
+{{< hextra/hero-button text="安全攻防与研究" link="security_research" >}}
 </div>
 
 {{< cards rows="4" >}}
-  {{< card link="/" title="入侵检测与分析" image="https://source.unsplash.com/featured/800x400?5" subtitle="开发中，敬请期待.">}}
-  {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?6" subtitle="开发中，敬请期待." >}}
+  {{< card link="/" title="AI安全" image="https://source.unsplash.com/featured/800x400?5" subtitle="开发中，敬请期待.">}}
+  {{< card link="/" title="区块链安全" image="https://source.unsplash.com/featured/800x400?6" subtitle="开发中，敬请期待." >}}
   {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?7" subtitle="开发中，敬请期待.">}}
   {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?8" subtitle="开发中，敬请期待.">}}
 {{< /cards >}}
-
-<div class="mt-6">&nbsp;</div>
-
-<div class="mb-6">
-{{< hextra/hero-button text="漏洞研究" link="vulnerability_research" >}}
-</div>
-
-{{< cards rows="4" >}}
-  {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?9" subtitle="开发中，敬请期待.">}}
-  {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?10" subtitle="开发中，敬请期待." >}}
-  {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?11" subtitle="开发中，敬请期待.">}}
-  {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?12" subtitle="开发中，敬请期待.">}}
-{{< /cards >}}
-
