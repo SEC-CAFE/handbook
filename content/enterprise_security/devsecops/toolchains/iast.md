@@ -16,5 +16,11 @@ keywords:
 - [洞态IAST](https://github.com/HXSecurity/DongTai) 火线开源的一款IAST工具
 
 
- 
+## 开源工具能力对比
 
+[SecurityTools-Assessment for IAST](https://atomgit.com/cyberchen/SecurityTools-Assessment/tree/master/IAST) 由蚂蚁金服、斗象科技共同完成的开源 IAST 工具能力评估报告。
+
+| 工具名称 | 蚂蚁金服测试结果 | 斗象科技测试结果 | 最终得分 |
+| --- | --- | --- | --- |
+| OpenRASP-IAST | 62.71 | 64.82 | 63.765 |
+| 洞态 IAST | 71.87 | 68.89 | 70.355 |
