@@ -22,5 +22,14 @@ keywords:
 - [Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy) 一个OWASP开源的web应用程序漏洞扫描器
 - [xray](https://github.com/chaitin/xray) 长亭开源扫描器
 
+
+## 开源工具能力对比
+
+[SecurityTools-Assessment for DAST](https://atomgit.com/cyberchen/SecurityTools-Assessment/tree/master/DAST) 由水木羽林和中关软件测评中心共同完成的开源 DAST 工具能力评估报告。
+
+| 工具      | 总分  |
+| --------- | ----- |
+| OWASP-ZAP | 78.6  |
+| Greenbone-OpenVAS | 28.97 |
  
 

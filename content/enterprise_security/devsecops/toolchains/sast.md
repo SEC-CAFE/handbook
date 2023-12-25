@@ -71,3 +71,24 @@ keywords:
 
 ![](/images/代码审计商业软件对比.png "代码审计商业软件对比")
 
+## 开源工具能力对比
+
+[SecurityTools-Assessment for SAST](https://atomgit.com/cyberchen/SecurityTools-Assessment/tree/master/SAST) 由阿里巴巴、统信软件共同完成的开源 SAST 工具能力评估报告。
+
+### C/C++
+
+| 工具      | 总分  |
+| --------- | ----- |
+| CodeQL    | 69.88 |
+| CppCheck  | 63.57 |
+| Infer     | 59.76 |
+
+### Java
+
+| 工具      | 总分  |
+| --------- | ----- |
+| CodeQL    | 67.42 |
+| SpotBugs  | 43.58 |
+| Semgrep   | 41.68 |
+| Infer     | 36.56 |
+
