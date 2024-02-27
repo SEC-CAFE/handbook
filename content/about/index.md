@@ -22,7 +22,7 @@ layout: single1
   有问题或反馈？请随时[提出问题](https://github.com/SEC-CAFE/handbook/issues)！
 {{< /callout >}}
 
-或加入Discord社区反馈：[https://discord.com/invite/jZzyE2JV](https://discord.com/invite/jZzyE2JV)
+或加入Discord社区反馈：[https://discord.gg/WXSvykbYDb](https://discord.gg/WXSvykbYDb)
 
 ## 贡献内容
 

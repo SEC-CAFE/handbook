@@ -94,7 +94,7 @@ menu:
       weight: 3
     - identifier: Discord
       name: "Discord社区"
-      url: "https://discord.com/invite/jZzyE2JV"
+      url: "https://discord.gg/WXSvykbYDb"
       weight: 4
 
 params:
