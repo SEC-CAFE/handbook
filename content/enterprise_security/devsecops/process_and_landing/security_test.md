@@ -11,6 +11,7 @@ keywords:
 
 ## 测试标准与指南
 - [OWASP移动应用测试指南](http://www.owasp.org.cn/OWASP-CHINA/owasp-project/owasp-mobile-security-testing-guide/)
+- [OWASP测试指南](https://github.com/OWASP/wstg) [中文版](https://sec.cafe/handbook/pdf/OWASP%20%E6%B5%8B%E8%AF%95%E6%8C%87%E5%8D%97%205.0%20202402.pdf)
 - [PTES_MindMap_CN1_渗透测试执行标准](https://www.vipread.com/library/topic/133)
 - [WebSocket 渗透测试指南](https://mp.weixin.qq.com/s/EAuvTYXnCtiO7wq32SKGbA)
 - [华为Web应用安全测试规范V1.2](https://www.vipread.com/library/topic/125)
