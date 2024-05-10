@@ -59,7 +59,7 @@ keywords:
 </div>
 
 {{< cards rows="4" >}}
-  {{< card link="/" title="AI安全" image="https://source.unsplash.com/featured/800x400?5" subtitle="开发中，敬请期待.">}}
+  {{< card link="security_research/ai_security" title="AI安全" image="https://source.unsplash.com/featured/800x400?5" subtitle="开发中，敬请期待.">}}
   {{< card link="/" title="区块链安全" image="https://source.unsplash.com/featured/800x400?6" subtitle="开发中，敬请期待." >}}
   {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?7" subtitle="开发中，敬请期待.">}}
   {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?8" subtitle="开发中，敬请期待.">}}
