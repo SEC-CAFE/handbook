@@ -58,7 +58,7 @@ menu:
       weight: 4
     - name: 打赏
       weight: 5
-      url: "https://sec.cafe/about"
+      url: "https://sec.cafe/sponsor"
     - name: Search
       weight: 6
       params:
