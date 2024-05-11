@@ -26,7 +26,7 @@ keywords:
 ## AI/LLM/ML Security Map
 > 来自 https://github.com/wearetyomsmnv/AI-LLM-ML_security_study_map
 
-![](/images/AI-LLM-ML_security_study_map.png "AI/LLM/ML Security Map")
+![](/images/map.png "AI/LLM/ML Security Map")
 
 
 
