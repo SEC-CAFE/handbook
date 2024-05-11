@@ -28,6 +28,7 @@ keywords:
 
 ![](/images/map.png "AI/LLM/ML Security Map")
 
+[PDF版本](https://sec.cafe/handbook/pdf/map_ml_study.pdf)
 
 
 
