@@ -22,7 +22,7 @@ languages:
     languageName: 简体中文
     languageCode: zh-CN
     weight: 1
-    title: 安全手册 - SEC.CAFE 安全咖啡
+    title: SEC.CAFE 安全咖啡
 
 module:
   hugoVersion:
@@ -43,25 +43,28 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - name: 主站
+    - name: 安全情报
       weight: 1
-      url: "https://sec.cafe"
+      url: "https://sec.cafe?ref=handbook"
     - identifier: documentation
-      name: 知识库
+      name: 安全手册
       weight: 2
+    - name: 安全导航
+      weight: 3
+      url: "https://0xsafe.org/?ref=handbook"
     - identifier: about
       name: 关于
       pageRef: /about
-      weight: 3
-    - name: 打赏
       weight: 4
+    - name: 打赏
+      weight: 5
       url: "https://sec.cafe/about"
     - name: Search
-      weight: 5
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 7
       url: "https://github.com/SEC-CAFE/handbook"
       params:
         icon: github

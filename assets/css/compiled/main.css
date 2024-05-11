@@ -1024,7 +1024,7 @@ video {
 }
 .bg-primary-600 {
   --tw-bg-opacity: 1;
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-bg-opacity));
+  background-color: rgb(14 165 233 / var(--tw-bg-opacity));
 }
 .bg-primary-700\/5 {
   background-color: hsl(var(--primary-hue) var(--primary-saturation) 39% / 0.05);
@@ -1310,6 +1310,10 @@ video {
 .text-yellow-900 {
   --tw-text-opacity: 1;
   color: rgb(113 63 18 / var(--tw-text-opacity));
+}
+.text-sky-500{
+  --tw-text-opacity: 1;
+  color: rgb(14 165 233 / var(--tw-text-opacity))
 }
 .underline {
   text-decoration-line: underline;
