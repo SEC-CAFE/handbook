@@ -11,6 +11,7 @@ keywords:
 
 ## 标准规范与白皮书
 - [人工智能安全标准化白皮书（2023版）](https://www.tc260.org.cn/upload/2023-05-31/1685501487351066337.pdf)
+- [华为AI安全白皮书](https://www-file.huawei.com/-/media/corporate/pdf/cyber-security/ai-security-white-paper-cn.pdf)
 - [LLM相关规范](/security_research/ai_security/standards_and_guide/)
 
 ## 指南
