@@ -127,6 +127,8 @@ params:
     enable: true
     displayCopyright: true
     displaySlogan: true
+    displayICP: true
+    displayGanbei: false
     displayPoweredBy: false
     width: normal
 

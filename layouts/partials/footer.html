@@ -2,6 +2,8 @@
 {{- $displayThemeToggle := site.Params.theme.displayToggle | default true -}}
 
 {{- $copyright := (T "copyright") | default "© 2023 Hextra." -}}
+{{- $icp := (T "icp") | default "ICP备00000000号-1" -}}
+{{- $gabei := (T "gabei") | default "公安备00000000号-1" -}}
 {{- $slogan := (T "slogan") | default "" -}}
 {{- $poweredBy := (T "poweredBy") | default "Powered by Hextra" -}}
 
@@ -29,7 +31,13 @@
     class="{{ $footerWidth }} mx-auto flex justify-center py-12 pl-[max(env(safe-area-inset-left),1.5rem)] pr-[max(env(safe-area-inset-right),1.5rem)] text-gray-600 dark:text-gray-400 md:justify-start"
   >
     <div class="flex w-full items-center sm:items-start justify-between">
-      {{- if .Site.Params.footer.displayCopyright }}<div class="text-xs">{{ $copyright | markdownify }}</div>{{ end }}
+      <div>
+        {{- if .Site.Params.footer.displayCopyright }}<div class="text-sm">{{ $copyright | markdownify }}</div>{{ end }}
+        <div class="flex">
+          {{- if .Site.Params.footer.displayICP }}<div class="text-xs text-gray-500"><a href="https://beian.miit.gov.cn/" traget="_blank">{{ $icp | markdownify }}</a></div>{{ end }}
+          {{- if .Site.Params.footer.displayGanbei }}<div class="text-xs px-2 text-gray-500"><a href="https://beian.miit.gov.cn/" traget="_blank">{{ $gabei | markdownify }}</a></div>{{ end }}
+        </div>
+      </div>
       {{- if .Site.Params.footer.displaySlogan }}<div class="text-xs">{{ $slogan | markdownify }}</div>{{ end }}
       {{- if (.Site.Params.footer.displayPoweredBy | default true) }}<div class="font-semibold" style="float:right">{{ template "theme-credit" $poweredBy }}</div>{{ end }}
     </div>
