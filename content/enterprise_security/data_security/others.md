@@ -18,9 +18,16 @@ keywords:
 
 
 ## 书籍
-- [数据安全架构设计与实战](https://weread.qq.com/web/bookDetail/5ed32a607198b78c5ed6a0b)：作者在鹅厂做过多年数据安全工作，目前在菊厂
-- [数据安全领域指南](https://weread.qq.com/web/bookDetail/917323f0813ab7713g018417)：很详细的介绍了数据安全整体体系
-- [微信读书书单：Awesome-Data-Security](https://weread.qq.com/)：作者维护的一份书单
+- [《数据安全架构设计与实战》](https://s.click.taobao.com/2TDeTlt) /  [(微信读书)](https://weread.qq.com/web/bookDetail/5ed32a607198b78c5ed6a0b)：作者在鹅厂做过多年数据安全工作，目前在菊厂
+- [《数据安全领域指南》](https://s.click.taobao.com/mBOapkt) /  [(微信读书)](https://weread.qq.com/web/bookDetail/917323f0813ab7713g018417)：很详细的介绍了数据安全整体体系
+- [《数据安全实践：能力体系、产品实现与解决方案》](https://s.click.taobao.com/CX3apkt)
+- [《企业数据安全防护指南》](https://s.click.taobao.com/21yZpkt)
+- [《数据治理与数据安全》](https://s.click.taobao.com/3i8dTlt)
+- [《数据安全与流通：技术、架构与实践》](https://s.click.taobao.com/ZVnZpkt)
+- [《数据安全实践指南》](https://s.click.taobao.com/2v7dTlt)
+- [《数字化转型浪潮下的数据安全最佳实践指南》](https://s.click.taobao.com/eEscTlt)
+- [《数据安全与隐私计算》](https://s.click.taobao.com/HYSZpkt)
+- [微信读书书单：Awesome-Data-Security](https://weread.qq.com/misc/booklist/4407265_7H4B0AI7w)：作者维护的一份书单
 
 ## 分享
 - [信息安全知识库vipread](https://vipread.com/library/tags/数据安全)：国内各种公开分享基本都收纳进来了

@@ -6,7 +6,16 @@ description: 其他资料与工具
 keywords:
  - AI漏洞库
  - AI合规
+ - AI安全书籍
 ---
+
+## 书籍
+- [《AI安全：技术与实战》](https://s.click.taobao.com/TVJcTlt)
+- [《AI大模型安全观：通用人工智能的应用场景安全挑战与未来影响》](https://s.click.taobao.com/DpbZpkt)
+- [《AI+网络安全：智网融合空间体系建设指南》](https://s.click.taobao.com/uP6Vpkt)
+- [《人工智能安全：原理剖析与实践》](https://s.click.taobao.com/ImUVpkt)
+- [《人工智能安全》](https://s.click.taobao.com/QHIZTlt)
+- [《人工智能：数据与模型安全》](https://s.click.taobao.com/hobZTlt)
 
 
 ## 漏洞库
