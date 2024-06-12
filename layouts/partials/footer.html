@@ -35,7 +35,7 @@
         {{- if .Site.Params.footer.displayCopyright }}<div class="text-sm">{{ $copyright | markdownify }}</div>{{ end }}
         <div class="flex">
           {{- if .Site.Params.footer.displayICP }}<div class="text-xs text-gray-500"><a href="https://beian.miit.gov.cn/" traget="_blank">{{ $icp | markdownify }}</a></div>{{ end }}
-          {{- if .Site.Params.footer.displayGanbei }}<div class="text-xs px-2 text-gray-500"><a href="https://beian.miit.gov.cn/" traget="_blank">{{ $gabei | markdownify }}</a></div>{{ end }}
+          {{- if .Site.Params.footer.displayGanbei }}<div class="text-xs px-2 text-gray-500"><a href="https://beian.mps.gov.cn/#/query/webSearch?code=44030002003757" rel="noreferrer" class="flex items-start" traget="_blank"><img style="width:14px;padding-top: 1.5px;" src="{{ "images/logo.gabei.png" | relURL }}">&nbsp;{{ $gabei | markdownify }}</a></div>{{ end }}
         </div>
       </div>
       {{- if .Site.Params.footer.displaySlogan }}<div class="text-xs">{{ $slogan | markdownify }}</div>{{ end }}
