@@ -46,10 +46,10 @@ keywords:
 </div>
 
 {{< cards rows="4" >}}
-  {{< card link="enterprise_security/data_security" title="数据安全" image="https://source.unsplash.com/featured/800x400?1" subtitle="数据安全资料、方法论与实践经验">}}
-  {{< card link="enterprise_security/devsecops" title="DevSecOps" image="https://source.unsplash.com/featured/800x400?2" subtitle="DevSecOps及S-SDLC相关内容与实践方法" >}}
-  {{< card link="/" title="零信任安全" image="https://source.unsplash.com/featured/800x400?3" subtitle="开发中，敬请期待.">}}
-  {{< card link="/" title="攻防演练" image="https://source.unsplash.com/featured/800x400?4" subtitle="开发中，敬请期待.">}}
+  {{< card link="enterprise_security/data_security" title="数据安全" image="images/banner/1.jpg" subtitle="数据安全资料、方法论与实践经验">}}
+  {{< card link="enterprise_security/devsecops" title="DevSecOps" image="images/banner/2.jpg" subtitle="DevSecOps及S-SDLC相关内容与实践方法" >}}
+  {{< card link="/" title="零信任安全" image="images/banner/3.jpg" subtitle="开发中，敬请期待.">}}
+  {{< card link="/" title="攻防演练" image="images/banner/4.jpg" subtitle="开发中，敬请期待.">}}
 {{< /cards >}}
 
 <div class="mt-6">&nbsp;</div>
@@ -59,8 +59,8 @@ keywords:
 </div>
 
 {{< cards rows="4" >}}
-  {{< card link="security_research/ai_security" title="AI安全" image="https://source.unsplash.com/featured/800x400?5" subtitle="AI安全相关资料，重点包括大模型(LLM)/AIGC安全内容.">}}
-  {{< card link="/" title="区块链安全" image="https://source.unsplash.com/featured/800x400?6" subtitle="开发中，敬请期待." >}}
-  {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?7" subtitle="开发中，敬请期待.">}}
-  {{< card link="/" title="待开发知识" image="https://source.unsplash.com/featured/800x400?8" subtitle="开发中，敬请期待.">}}
+  {{< card link="security_research/ai_security" title="AI安全" image="images/banner/5.jpg" subtitle="AI安全相关资料，重点包括大模型(LLM)/AIGC安全内容.">}}
+  {{< card link="/" title="区块链安全" image="images/banner/6.jpg" subtitle="开发中，敬请期待." >}}
+  {{< card link="/" title="待开发知识" image="images/banner/7.jpg" subtitle="开发中，敬请期待.">}}
+  {{< card link="/" title="待开发知识" image="images/banner/8.jpg" subtitle="开发中，敬请期待.">}}
 {{< /cards >}}

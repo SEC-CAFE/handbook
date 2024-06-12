@@ -685,6 +685,9 @@ video {
 .flex {
   display: flex;
 }
+.flex {
+  display: flex;
+}
 .inline-flex {
   display: inline-flex;
 }
@@ -2471,6 +2474,7 @@ nav .search-wrapper {
     display: inline-block;
   }
 }
+
 @supports (
   ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px)))
 ) {
@@ -3407,6 +3411,10 @@ body {
 
   .md\:hidden {
     display: none;
+  }
+
+  .md\:flex {
+    display: flex;
   }
 
   .md\:aspect-\[1\.1\/1\] {
