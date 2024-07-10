@@ -39,6 +39,7 @@ keywords:
 - [黑化AI，将恶意“注入”ChatGPT](https://www.freebuf.com/articles/neopoints/357855.html)
 - [ChatGPT安全风险 | 基于LLMs应用的Prompt注入攻击](https://www.freebuf.com/articles/network/365585.html)
 - [AI安全｜LLM 01 提示词注入](https://mp.weixin.qq.com/s/A4kzMFMjrbJ_cYMLMNrTMQ)
+- [大模型安全：平滑方法防御越狱攻击](https://forum.butian.net/share/3120)
 
 ## 敏感信息泄露攻击
 - [针对ChatGPT的隐私提取攻击：多步骤越狱漏洞](https://www.freebuf.com/vuls/365393.html)
