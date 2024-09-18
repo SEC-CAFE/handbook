@@ -51,7 +51,7 @@ jobs:
       - name: upload code
         uses: appleboy/scp-action@v0.1.7
         with:
-          source: public/*.*
+          source: public/
           target: /tmp/
           host: ${{ secrets.DEPLOY_HOST }}
           port: ${{secrets.DEPLOY_HOST_PORT}}
