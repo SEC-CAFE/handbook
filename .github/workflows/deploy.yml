@@ -49,10 +49,18 @@ jobs:
             --minify \
             -b 'https://sec.cafe/handbook/'
       - name: upload code
-        uses: garygrossgarten/github-action-scp@release
+        uses: appleboy/scp-action@v0.1.7
         with:
-          local: public/.
-          remote: /data/www/handbook.sec.cafe/
+          source: public/*.*
+          target: /tmp/
+          host: ${{ secrets.DEPLOY_HOST }}
+          port: ${{secrets.DEPLOY_HOST_PORT}}
+          username: ${{ secrets.DEPLOY_HOST_USER}}
+          key: ${{ secrets.DEPLOY_PRIVATE_KEY}}
+      - name: deploy ui
+        uses: garygrossgarten/github-action-ssh@release
+        with:
+          command: cd /data/www/handbook.sec.cafe/;rm -rf *;mv /tmp/public/* .;rm -rf /tmp/public
           host: ${{ secrets.DEPLOY_HOST }}
           port: ${{secrets.DEPLOY_HOST_PORT}}
           username: ${{ secrets.DEPLOY_HOST_USER}}

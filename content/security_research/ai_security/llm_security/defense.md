@@ -32,8 +32,6 @@ keywords:
 - [vivo对生成式人工智能的安全思考和实践](#)
 - [OpenAI安全系统负责人长文梳理：大模型的对抗攻击与防御](https://mp.weixin.qq.com/s/t87IOi6r4N-c-StI9CPy_A)
 - [Meta开源大模型的安全实践](https://mp.weixin.qq.com/s/-mHiEfImfZBgotDgRnKU5w)
-- [实战解读：Llama 3 安全性对抗分析](https://mp.weixin.qq.com/s/3OqoJIqSGLIMa1dVzXXFkQ)
-- [实战解读：Llama Guard 3 & Prompt Guard](https://mp.weixin.qq.com/s/jgwn_o0EUmvtNUhGswCDng)
 
 ## 工具
 - [Garak](https://docs.garak.ai/garak/) 一个用于大语言模型 (LLM) 漏洞扫描的 Python 包

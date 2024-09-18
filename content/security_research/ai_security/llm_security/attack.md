@@ -23,6 +23,8 @@ keywords:
 - [金融行业的人工智能安全风险研究](https://www.freebuf.com/articles/paper/378893.html)
 - [大语言模型 (Large Language Model，简称LLM) 安全之攻击面初探](https://mp.weixin.qq.com/s/GMmbyMvqKxm0z1HPQeTgag)
 - [实战解读：Llama 3 安全性对抗分析](https://mp.weixin.qq.com/s/3OqoJIqSGLIMa1dVzXXFkQ)
+- [实战解读：Llama Guard 3 & Prompt Guard](https://mp.weixin.qq.com/s/jgwn_o0EUmvtNUhGswCDng)
+
 
 ## 测试框架与方法
 - [针对大语言模型的通用对抗性攻击](https://www.freebuf.com/articles/paper/375497.html)
