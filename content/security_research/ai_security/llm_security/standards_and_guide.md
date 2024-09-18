@@ -19,6 +19,7 @@ keywords:
 - [项目地址](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [中文版翻译](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/assets/translations/zh/OWASP%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8Top%2010%20%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81.pdf)
 - [解读及攻击举例](https://blog.csdn.net/stingfire/article/details/136688741)
+- [全面解析LLM安全风险 | 3万字长文翻译OWASP关于大语言模型的Top 10安全风险](https://mp.weixin.qq.com/s/22zwxSl8Q44LtJnEdUJ9Qw)
 
 - **LLM1：提示词(Prompt) 注入(Injection)** 黑客通过设计过的输入（提示词）操纵大型语言模型
 (LLM)，从而导致 LLM 执行意外操作。提示词注入会覆盖系统提示词，而间接注入操纵外部数据源进

@@ -31,7 +31,9 @@ keywords:
 ## 企业实践与分享
 - [vivo对生成式人工智能的安全思考和实践](#)
 - [OpenAI安全系统负责人长文梳理：大模型的对抗攻击与防御](https://mp.weixin.qq.com/s/t87IOi6r4N-c-StI9CPy_A)
-
+- [Meta开源大模型的安全实践](https://mp.weixin.qq.com/s/-mHiEfImfZBgotDgRnKU5w)
+- [实战解读：Llama 3 安全性对抗分析](https://mp.weixin.qq.com/s/3OqoJIqSGLIMa1dVzXXFkQ)
+- [实战解读：Llama Guard 3 & Prompt Guard](https://mp.weixin.qq.com/s/jgwn_o0EUmvtNUhGswCDng)
 
 ## 工具
 - [Garak](https://docs.garak.ai/garak/) 一个用于大语言模型 (LLM) 漏洞扫描的 Python 包
@@ -39,4 +41,5 @@ keywords:
 - [GPTFUZZER](https://github.com/sherdencooper/GPTFuzz) 利用自动生成的越狱提示对大型语言模型进行红队测试
 - [PromptBench](https://github.com/microsoft/promptbench)  一个用于测量LLMs对对抗性提示的鲁棒性的基准测试
 - [securityGPT](https://github.com/GPTGeeker/securityGPT) 面向GPT开发者的安全Prompt组件
-- [PurpleLlama](https://github.com/meta-llama/PurpleLlama) Meta出品的一套评估和改进LLM安全性的工具。
+- [PurpleLlama](https://github.com/meta-llama/PurpleLlama) Meta出品的一套评估和改进LLM安全性的工具
+- [Dioptra](https://github.com/usnistgov/dioptra) NIST发布的AI模型风险测试平台，用于评估AI风险和恶意攻击

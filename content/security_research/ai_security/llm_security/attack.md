@@ -41,18 +41,21 @@ keywords:
 - [AI安全｜LLM 01 提示词注入](https://mp.weixin.qq.com/s/A4kzMFMjrbJ_cYMLMNrTMQ)
 - [大模型安全：平滑方法防御越狱攻击](https://forum.butian.net/share/3120)
 
-## 敏感信息泄露攻击
+## 越狱攻击
 - [针对ChatGPT的隐私提取攻击：多步骤越狱漏洞](https://www.freebuf.com/vuls/365393.html)
+- [大语言模型越狱攻击综述](https://mp.weixin.qq.com/s/wdEoAqXh6m-wsr2Al8WTJw)
 
 ## 内容安全
 - [技术实践｜大模型内容安全蓝军的道与术](https://www.freebuf.com/company-information/399393.html)
+
+## 代码执行/沙箱安全
+- [老树开新花：大模型时代的代码执行沙箱](https://mp.weixin.qq.com/s/X54d0foyBS56lGFUPyOvTw)
 
 ## LLM应用攻击
 - [ChatGPT账户接管-Web缓存欺骗](https://www.freebuf.com/vuls/392201.html)
 - [启明星辰ADLab | 首个攻击ChatGPT应用项目窃密活动](https://www.freebuf.com/articles/network/385452.html)
 - [某”基于ChatGPT“开源项目引发的交互接口getshell](https://www.freebuf.com/articles/web/362695.html)
 - [使用国内私人部署ChatGPT风险分析](https://www.freebuf.com/articles/network/366740.html)
-
 
 ## 传统安全
 - [大模型之原生安全与基础安全的火花](https://www.freebuf.com/articles/web/395047.html)
