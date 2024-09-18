@@ -51,20 +51,23 @@ menu:
       weight: 2
     - name: 安全导航
       weight: 3
-      url: "https://0xsafe.org/?ref=handbook"
+      url: "https://sec.cafe/links?ref=handbook"
+    - name: 安全搜搜
+      weight: 4
+      url: "https://secsoso.com?ref=handbook"
     - identifier: about
       name: 关于
       pageRef: /about
-      weight: 4
-    - name: 打赏
       weight: 5
+    - name: 打赏
+      weight: 6
       url: "https://sec.cafe/sponsor"
     - name: Search
-      weight: 6
+      weight: 7
       params:
         type: search
     - name: GitHub
-      weight: 7
+      weight: 8
       url: "https://github.com/SEC-CAFE/handbook"
       params:
         icon: github
