@@ -12,6 +12,8 @@ keywords:
 ## 标准规范与白皮书
 - [生成式人工智能服务安全基本要求](https://www.tc260.org.cn/upload/2024-03-01/1709282398070082466.pdf)
 - [生成式人工智能治理与实践白皮书](https://max.book118.com/html/2023/1217/6114033151010022.shtm)
+- [大模型安全研究报告(2024年)](https://developer.aliyun.com/ebook/8367)
+- [中国信息安全-专题·大模型安全](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664222823&idx=1&sn=7a76f58804f7a832ce3c68e4bfd61c62&chksm=8b59d29ebc2e5b883292407dd805f5f359f6c381adbe885d9a7698bd007b388c9636d4012ca3&scene=178&cur_album_id=3600965330450939908#rd)
 
 ## 指南
 

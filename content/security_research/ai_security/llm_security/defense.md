@@ -41,3 +41,4 @@ keywords:
 - [securityGPT](https://github.com/GPTGeeker/securityGPT) 面向GPT开发者的安全Prompt组件
 - [PurpleLlama](https://github.com/meta-llama/PurpleLlama) Meta出品的一套评估和改进LLM安全性的工具
 - [Dioptra](https://github.com/usnistgov/dioptra) NIST发布的AI模型风险测试平台，用于评估AI风险和恶意攻击
+- [Agent Security Bench (ASB)](https://github.com/agiresearch/ASB) 一个综合框架，旨在形式化、基准化和评估基于LLM agent的攻击和防御

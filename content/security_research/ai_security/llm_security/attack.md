@@ -24,6 +24,8 @@ keywords:
 - [大语言模型 (Large Language Model，简称LLM) 安全之攻击面初探](https://mp.weixin.qq.com/s/GMmbyMvqKxm0z1HPQeTgag)
 - [实战解读：Llama 3 安全性对抗分析](https://mp.weixin.qq.com/s/3OqoJIqSGLIMa1dVzXXFkQ)
 - [实战解读：Llama Guard 3 & Prompt Guard](https://mp.weixin.qq.com/s/jgwn_o0EUmvtNUhGswCDng)
+- [AI安全漏洞全曝光：从案例到生命周期的深度解析|英国综述性报告《Cyber Security to AI》](https://mp.weixin.qq.com/s/vK1YihXeY2B_Tgdts_A0iA)
+- [微软安全大模型的应用架构](https://mp.weixin.qq.com/s/WjYraQpk_URpq4GO-r4cFw)
 
 
 ## 测试框架与方法
@@ -42,6 +44,7 @@ keywords:
 - [ChatGPT安全风险 | 基于LLMs应用的Prompt注入攻击](https://www.freebuf.com/articles/network/365585.html)
 - [AI安全｜LLM 01 提示词注入](https://mp.weixin.qq.com/s/A4kzMFMjrbJ_cYMLMNrTMQ)
 - [大模型安全：平滑方法防御越狱攻击](https://forum.butian.net/share/3120)
+- [上海人工智能实验室：LLMs对话安全综述——攻击、防御与评估全解析](https://mp.weixin.qq.com/s/ioMr6iOWQ7Y0Ow7sFotMWQ)
 
 ## 越狱攻击
 - [针对ChatGPT的隐私提取攻击：多步骤越狱漏洞](https://www.freebuf.com/vuls/365393.html)
@@ -52,8 +55,13 @@ keywords:
 
 ## 代码执行/沙箱安全
 - [老树开新花：大模型时代的代码执行沙箱](https://mp.weixin.qq.com/s/X54d0foyBS56lGFUPyOvTw)
+- [[CCS 2024]中国科学院信息工程研究所：LLMSMITH——揭秘LLMs集成框架与应用中的RCE漏洞](https://mp.weixin.qq.com/s/cxVZ_8UG0SbMq_3XJee1cQ)
 
-## LLM应用攻击
+
+## 模型及算法安全
+- [人工智能安全治理框架解读——模型算法安全风险及应对篇](https://mp.weixin.qq.com/s/1WU7ZHrVSk1QBffsXx-qaw)
+
+## LLM框架及应用攻击
 - [ChatGPT账户接管-Web缓存欺骗](https://www.freebuf.com/vuls/392201.html)
 - [启明星辰ADLab | 首个攻击ChatGPT应用项目窃密活动](https://www.freebuf.com/articles/network/385452.html)
 - [某”基于ChatGPT“开源项目引发的交互接口getshell](https://www.freebuf.com/articles/web/362695.html)
@@ -61,3 +69,4 @@ keywords:
 
 ## 传统安全
 - [大模型之原生安全与基础安全的火花](https://www.freebuf.com/articles/web/395047.html)
+- [大模型之网络安全分析](https://mp.weixin.qq.com/s/RwBBRzeSKNp1LJ8I0jFg1w)

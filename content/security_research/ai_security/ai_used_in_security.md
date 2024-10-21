@@ -34,6 +34,8 @@ keywords:
 - [利用深度学习检测恶意PowerShell](https://www.freebuf.com/articles/network/213619.html)
 - [基于机器学习的WEB攻击分类检测模型](https://www.freebuf.com/news/184687.html)
 - [AIGC企业安全实践与威胁流量案例分析](https://www.freebuf.com/articles/es/378943.html)
+- [Nuclei AI - 让漏洞发现更加智能化与高效](https://mp.weixin.qq.com/s/v3heaDPaxJXKKU2wwahcBA)
+
 
 ## 安全运营与响应
 - [智能驱动｜ChatGPT视角下的告警事件闭环响应](https://www.freebuf.com/articles/network/396552.html)
@@ -46,6 +48,7 @@ keywords:
 - [AI大语言模型与安全运营](https://www.freebuf.com/articles/security-management/390403.html)
 - [AI 安全实践 | 应用大语言模型阻断Emotet病毒的传播路径 ](https://www.freebuf.com/articles/network/376646.html)
 - [百家讲坛 | 张博：大语言模型在安全运营工具融合应用的实践与探索](https://mp.weixin.qq.com/s/Q2sCWNJnPHuWlqll4Sf-pQ)
+- [[USENIX Security 2024]浙江大学团队揭秘：ChatGPT在漏洞管理中的创新应用与自我启发式提示研究](https://mp.weixin.qq.com/s/T2W4EcUe-wpA67LtuKzs_g)
 
 ## 风险识别与修复
 - [通过大语言模型（LLM）识别与修复风险代码](https://www.freebuf.com/articles/web/371325.html)
