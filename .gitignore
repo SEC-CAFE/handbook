@@ -9,6 +9,7 @@
 *.dylib
 .DS_Store
 .hugo_build.lock
+public
 
 # Test binary, built with `go test -c`
 *.test
