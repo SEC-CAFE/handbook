@@ -15,6 +15,9 @@ keywords:
  - Prompt注入攻击
 ---
 
+## 白皮书
+- [LLM Hacker's Handbook](https://doublespeak.chat/#/handbook)
+
 ## 攻击面分析与理论
 - [保护人工智能系统和LLM栈的重要性：AI模型、LLM实施和安全方法论](https://www.freebuf.com/articles/neopoints/398298.html)
 - [技术分享｜LLM-大语言模型应用安全解析](https://www.freebuf.com/articles/web/396703.html)
