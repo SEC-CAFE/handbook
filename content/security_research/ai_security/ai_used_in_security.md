@@ -9,6 +9,9 @@ keywords:
  - AI安全场景
 ---
 
+## 指南与白皮书
+- [ChatGPT for Cybersecurity Cookbook](https://sec.cafe/handbook/pdf/chatgptforcybersecuritycookbook.pdf)
+- [Large Language Models in Cybersecurity](https://sec.cafe/handbook/pdf/LLM_in_cyber_security__1730205794.pdf)
 
 ## 综合性应用
 - [ChatGPT在安全研究领域的应用实践](https://www.freebuf.com/articles/network/361119.html)
@@ -35,7 +38,10 @@ keywords:
 - [基于机器学习的WEB攻击分类检测模型](https://www.freebuf.com/news/184687.html)
 - [AIGC企业安全实践与威胁流量案例分析](https://www.freebuf.com/articles/es/378943.html)
 - [Nuclei AI - 让漏洞发现更加智能化与高效](https://mp.weixin.qq.com/s/v3heaDPaxJXKKU2wwahcBA)
-
+- [Vulnhuntr: Autonomous AI Finds First 0-Day Vulnerabilities in Wild](https://protectai.com/threat-research/vulnhuntr-first-0-day-vulnerabilities)
+- [Hacking and Bug Bounty AI-Powered Prompt Generation and A Few Notes on Agentic Hacking Systems](https://becomingahacker.org/hacking-and-bug-bounty-ai-powered-prompt-generation-and-a-few-notes-on-hacking-agentic-systems-a569e4511199)
+- [APOLLO：一种基于 GPT 的用于检测钓鱼邮件并生成警告用户的解释的工具](https://mp.weixin.qq.com/s/w-Rshy1GR3MZY4ca4bsrVQ)
+- [LLMs在供应链投毒检测中的应用](https://mp.weixin.qq.com/s/Dek0AdFNxf_C-q5pLX3ktw)
 
 ## 安全运营与响应
 - [智能驱动｜ChatGPT视角下的告警事件闭环响应](https://www.freebuf.com/articles/network/396552.html)

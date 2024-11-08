@@ -24,6 +24,8 @@ keywords:
 - [追问新知｜大语言模型如何提升自我防御技能？](https://mp.weixin.qq.com/s/Mv9bP48n7RZWxz8x_SJuLQ)
 - [AI&机器学习的威胁建模](https://mp.weixin.qq.com/s/w6yUHXE97Hov_i87JoYudQ)
 - [【AI安全】终章-构建可用的人工智能风险管理框架](https://mp.weixin.qq.com/s/Uh7vhKo6P-rs6dEU0pBaLw)
+- [Google's Secure AI Framework](https://saif.google/)
+- [Protecting Large Language Models](https://bughunters.google.com/blog/5679863572070400/protecting-large-language-models)
 
 ## AI攻击检测
 - [威胁狩猎新挑战——LLM时代如何解码黑客攻击](https://www.freebuf.com/articles/network/373156.html)
@@ -32,6 +34,7 @@ keywords:
 - [vivo对生成式人工智能的安全思考和实践](#)
 - [OpenAI安全系统负责人长文梳理：大模型的对抗攻击与防御](https://mp.weixin.qq.com/s/t87IOi6r4N-c-StI9CPy_A)
 - [Meta开源大模型的安全实践](https://mp.weixin.qq.com/s/-mHiEfImfZBgotDgRnKU5w)
+- [为什么我们需要 Hugging Face 的 Safetensors？](https://mp.weixin.qq.com/s/o-banwxQlk4rBiNOnp6lmA)
 
 ## 工具
 - [Garak](https://docs.garak.ai/garak/) 一个用于大语言模型 (LLM) 漏洞扫描的 Python 包

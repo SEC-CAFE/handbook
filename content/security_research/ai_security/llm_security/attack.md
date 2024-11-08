@@ -73,3 +73,6 @@ keywords:
 ## 传统安全
 - [大模型之原生安全与基础安全的火花](https://www.freebuf.com/articles/web/395047.html)
 - [大模型之网络安全分析](https://mp.weixin.qq.com/s/RwBBRzeSKNp1LJ8I0jFg1w)
+
+## 其他
+- [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
