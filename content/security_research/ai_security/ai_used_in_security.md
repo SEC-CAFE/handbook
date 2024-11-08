@@ -39,6 +39,7 @@ keywords:
 - [AIGC企业安全实践与威胁流量案例分析](https://www.freebuf.com/articles/es/378943.html)
 - [Nuclei AI - 让漏洞发现更加智能化与高效](https://mp.weixin.qq.com/s/v3heaDPaxJXKKU2wwahcBA)
 - [Vulnhuntr: Autonomous AI Finds First 0-Day Vulnerabilities in Wild](https://protectai.com/threat-research/vulnhuntr-first-0-day-vulnerabilities)
+- [From Naptime to Big Sleep: Using Large Language Models To Catch Vulnerabilities In Real-World Code](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html)
 - [Hacking and Bug Bounty AI-Powered Prompt Generation and A Few Notes on Agentic Hacking Systems](https://becomingahacker.org/hacking-and-bug-bounty-ai-powered-prompt-generation-and-a-few-notes-on-hacking-agentic-systems-a569e4511199)
 - [APOLLO：一种基于 GPT 的用于检测钓鱼邮件并生成警告用户的解释的工具](https://mp.weixin.qq.com/s/w-Rshy1GR3MZY4ca4bsrVQ)
 - [LLMs在供应链投毒检测中的应用](https://mp.weixin.qq.com/s/Dek0AdFNxf_C-q5pLX3ktw)
