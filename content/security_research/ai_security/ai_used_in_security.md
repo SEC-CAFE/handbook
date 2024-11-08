@@ -43,6 +43,7 @@ keywords:
 - [Hacking and Bug Bounty AI-Powered Prompt Generation and A Few Notes on Agentic Hacking Systems](https://becomingahacker.org/hacking-and-bug-bounty-ai-powered-prompt-generation-and-a-few-notes-on-hacking-agentic-systems-a569e4511199)
 - [APOLLO：一种基于 GPT 的用于检测钓鱼邮件并生成警告用户的解释的工具](https://mp.weixin.qq.com/s/w-Rshy1GR3MZY4ca4bsrVQ)
 - [LLMs在供应链投毒检测中的应用](https://mp.weixin.qq.com/s/Dek0AdFNxf_C-q5pLX3ktw)
+- [AutoPT: How Far Are We from the End2End Automated Web Penetration Testing?](https://arxiv.org/html/2411.01236v1)
 
 ## 安全运营与响应
 - [智能驱动｜ChatGPT视角下的告警事件闭环响应](https://www.freebuf.com/articles/network/396552.html)

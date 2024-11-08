@@ -29,6 +29,7 @@ keywords:
 - [实战解读：Llama Guard 3 & Prompt Guard](https://mp.weixin.qq.com/s/jgwn_o0EUmvtNUhGswCDng)
 - [AI安全漏洞全曝光：从案例到生命周期的深度解析|英国综述性报告《Cyber Security to AI》](https://mp.weixin.qq.com/s/vK1YihXeY2B_Tgdts_A0iA)
 - [微软安全大模型的应用架构](https://mp.weixin.qq.com/s/WjYraQpk_URpq4GO-r4cFw)
+- [Large Language Model Supply Chain: Open Problems From the Security Perspective](https://arxiv.org/html/2411.01604)
 
 
 ## 测试框架与方法
@@ -59,7 +60,6 @@ keywords:
 ## 代码执行/沙箱安全
 - [老树开新花：大模型时代的代码执行沙箱](https://mp.weixin.qq.com/s/X54d0foyBS56lGFUPyOvTw)
 - [[CCS 2024]中国科学院信息工程研究所：LLMSMITH——揭秘LLMs集成框架与应用中的RCE漏洞](https://mp.weixin.qq.com/s/cxVZ_8UG0SbMq_3XJee1cQ)
-
 
 ## 模型及算法安全
 - [人工智能安全治理框架解读——模型算法安全风险及应对篇](https://mp.weixin.qq.com/s/1WU7ZHrVSk1QBffsXx-qaw)
