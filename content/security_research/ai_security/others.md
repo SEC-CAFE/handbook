@@ -25,6 +25,8 @@ keywords:
 - [AIGC合规指南一：关键要点和算法备案实践](https://www.freebuf.com/articles/neopoints/390029.html)
 - [AIGC的隐私安全问题及隐私保护技术](https://www.freebuf.com/articles/web/358766.html)
 
+## 靶场
+- [Hack into Al](https://hackingclub.trustai.sg/)
 
 ## 其他文章
 - [AI发展背后的数据安全](https://www.freebuf.com/articles/database/377991.html)

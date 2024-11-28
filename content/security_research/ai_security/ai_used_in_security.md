@@ -32,7 +32,7 @@ keywords:
 - [回村三天，chatGPT教会了我如何简单逆向app并解密数据包](https://www.freebuf.com/articles/mobile/355589.html)
 - [如何用ChatGPT开发一个安全工具](https://www.freebuf.com/sectool/398605.html)
   
-## 安全检测
+## 安全检测与渗透
 - [火出圈的ChatGPT，如何让安全检测更智能](https://www.freebuf.com/articles/network/359678.html)
 - [利用深度学习检测恶意PowerShell](https://www.freebuf.com/articles/network/213619.html)
 - [基于机器学习的WEB攻击分类检测模型](https://www.freebuf.com/news/184687.html)
@@ -44,6 +44,9 @@ keywords:
 - [APOLLO：一种基于 GPT 的用于检测钓鱼邮件并生成警告用户的解释的工具](https://mp.weixin.qq.com/s/w-Rshy1GR3MZY4ca4bsrVQ)
 - [LLMs在供应链投毒检测中的应用](https://mp.weixin.qq.com/s/Dek0AdFNxf_C-q5pLX3ktw)
 - [AutoPT: How Far Are We from the End2End Automated Web Penetration Testing?](https://arxiv.org/html/2411.01236v1)
+- [大模型应用实践（一）：AI助力Code Review安全漏洞发现](https://mp.weixin.qq.com/s/Za2fTJBFA136v9m4I2f6UA)
+- [DataCon晚自习：浅谈大模型辅助漏洞挖掘](https://mp.weixin.qq.com/s/jSeA2Qu6X6cGHGEMCtkadw)
+- [利用AI进行渗透测试的攻击面](https://mp.weixin.qq.com/s/gLYAK2RsryckgF-DbhRozg)
 
 ## 安全运营与响应
 - [智能驱动｜ChatGPT视角下的告警事件闭环响应](https://www.freebuf.com/articles/network/396552.html)

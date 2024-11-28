@@ -41,6 +41,7 @@ keywords:
 - [SuperCLUE-Safety：中文大模型多轮对抗安全基准](https://www.cluebenchmarks.com/superclue_safety.html)
 
 ## Prompt注入攻击
+- [AI安全 | Prompt越狱手册第一版发布](https://mp.weixin.qq.com/s/JiVHh119oHSxlXlEP__LgA)
 - [ChatGPT安全风险 | 基于LLMs应用的Prompt注入攻击](https://www.freebuf.com/articles/network/365585.html)
 - 《大语言模型（LLM）攻防实战手册》第一章：提示词注入 [概述](https://mp.weixin.qq.com/s/WKXVDOi2_uiDL9N8DnbCWA) / [直接提示词注入（越狱）](https://mp.weixin.qq.com/s/_Brmvgh5z0mgqkaeI41SBg) / [间接提示词注入](https://mp.weixin.qq.com/s/TnTeTLUvmaIz868vvDe3Gw) / [图解提示词注入](https://mp.weixin.qq.com/s/s6uEuhTl-K4fmhqZbDDS-w)
 - [通过命令提示注入来攻击大语言模型](https://www.freebuf.com/articles/system/369434.html)
@@ -50,16 +51,21 @@ keywords:
 - [大模型安全：平滑方法防御越狱攻击](https://forum.butian.net/share/3120)
 - [上海人工智能实验室：LLMs对话安全综述——攻击、防御与评估全解析](https://mp.weixin.qq.com/s/ioMr6iOWQ7Y0Ow7sFotMWQ)
 
-## 越狱攻击
+## 越狱攻击/代码执行/沙箱安全
 - [针对ChatGPT的隐私提取攻击：多步骤越狱漏洞](https://www.freebuf.com/vuls/365393.html)
 - [大语言模型越狱攻击综述](https://mp.weixin.qq.com/s/wdEoAqXh6m-wsr2Al8WTJw)
+- [老树开新花：大模型时代的代码执行沙箱](https://mp.weixin.qq.com/s/X54d0foyBS56lGFUPyOvTw)
+- [[CCS 2024]中国科学院信息工程研究所：LLMSMITH——揭秘LLMs集成框架与应用中的RCE漏洞](https://mp.weixin.qq.com/s/cxVZ_8UG0SbMq_3XJee1cQ)
+
+
+## LLM SEO Attack
+- [大模型（ChatGPT）“语料污染”第一真实案例](https://mp.weixin.qq.com/s/1d5f9EQyV8Mk1OBV2V4DzQ)
+- [The "LLM SEO Attack" risk is becoming increasingly severe](https://securaize.substack.com/p/the-llm-seo-attack-risk-is-becoming)
+
 
 ## 内容安全
 - [技术实践｜大模型内容安全蓝军的道与术](https://www.freebuf.com/company-information/399393.html)
 
-## 代码执行/沙箱安全
-- [老树开新花：大模型时代的代码执行沙箱](https://mp.weixin.qq.com/s/X54d0foyBS56lGFUPyOvTw)
-- [[CCS 2024]中国科学院信息工程研究所：LLMSMITH——揭秘LLMs集成框架与应用中的RCE漏洞](https://mp.weixin.qq.com/s/cxVZ_8UG0SbMq_3XJee1cQ)
 
 ## 模型及算法安全
 - [人工智能安全治理框架解读——模型算法安全风险及应对篇](https://mp.weixin.qq.com/s/1WU7ZHrVSk1QBffsXx-qaw)
@@ -76,3 +82,4 @@ keywords:
 
 ## 其他
 - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
+
